@@ -13,11 +13,11 @@ If you can solve a issue, fill free to create a pull request and update the reso
 
 ## Resources:
 
-* Basic setup for developers -> [Click Here] (https://github.com/dsciitpatna/dev-resources/blob/main/Coder's%20Basic%20Cheat%20Sheet%20-%20DSC%20IITP.pdf)
+* Basic setup for developers -> [Click Here](https://github.com/dsciitpatna/dev-resources/blob/main/Coder's%20Basic%20Cheat%20Sheet%20-%20DSC%20IITP.pdf)
 
 * Basic Developers Kit (Web + Backend + Mobile + Blockchain + Game + ML + IOT + Ui/UX + AR )-> Click Here
 
-* Machine Learning -> [Click Here] (https://github.com/dsciitpatna/dev-resources/blob/main/ML-Roadmap.pdf)
+* Machine Learning -> [Click Here](https://github.com/dsciitpatna/dev-resources/blob/main/ML-Roadmap.pdf)
 
 
 
