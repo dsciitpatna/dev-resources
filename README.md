@@ -11,11 +11,13 @@ If you find any information missing, feel free to create an issue.
 If you can solve a issue, fill free to create a pull request and update the resources.
 
 
-## Resources
+## Resources:
 
-* Basic setup for developers -> Click Here
+* Basic setup for developers -> [Click Here] (https://github.com/dsciitpatna/dev-resources/blob/main/Coder's%20Basic%20Cheat%20Sheet%20-%20DSC%20IITP.pdf)
 
 * Basic Developers Kit (Web + Backend + Mobile + Blockchain + Game + ML + IOT + Ui/UX + AR )-> Click Here
+
+* Machine Learning -> [Click Here] (https://github.com/dsciitpatna/dev-resources/blob/main/ML-Roadmap.pdf)
 
 
 
@@ -26,7 +28,7 @@ If you can solve a issue, fill free to create a pull request and update the reso
 * Anushka Chakraborty
 
 
-### Other Contributors
+### Other Contributors:
 
 * Piyush Tiwari
 * Joshika
