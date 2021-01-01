@@ -33,3 +33,6 @@ If you can solve a issue, fill free to create a pull request and update the reso
 * Piyush Tiwari
 * Joshika
 * Nischal Ashok
+* Shivam Shekhar
+* Aakash Das
+* Sajal Kumar
